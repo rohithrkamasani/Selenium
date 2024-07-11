@@ -30,7 +30,7 @@ class SeleniumLocatore {
 	}
        @Disabled
 		@Test
-	void test0() throws Exception {
+	void locators() throws Exception {
 		driver.get("http://www.hyderabadreport.com/user");
 		Thread.sleep(3000);
 		
