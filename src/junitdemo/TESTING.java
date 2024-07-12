@@ -5,6 +5,7 @@ import org.testng.annotations.BeforeTest;
 import org.testng.annotations.AfterTest;
 
 public class TESTING {
+  WebDriver driver;
   @Test
   public void f() {
   }
